@@ -1,0 +1,173 @@
+my name is bishoy refaat gaber here is my project a text editor in c i call that editor Bedit 
+features : save, save as, read write a file, basic cursor movements, delete enter, edge movements 
+thank you :)
+
+
+Building a text editor in C shows how powerful the language is for file handling,
+memory management, and input/output control.
+
+
+
+
+
+
+C’s standard library offers functions like fopen, fwrite, and fclose to handle files.
+
+
+
+ppkkpkpklmmlIt also provides fgetc and fputc to read and write characters. 
+C’s efficiency and speed make it great for tasks like building a text editor.
+
+Many popular editors, like Vim and Emacs, were originally developed in C. 
+They highlight how the language remains relevant for system-level programming.
+
+When building a text editor in C, you work with data structures like arrays and linked lists to store text. 
+You also implement features like search, replace, undo, and redo. 
+Terminal control codes help manage the cursor and screen, making the editor responsive.
+
+C’s simplicity and efficiency allow for a clean, powerful text editor. 
+This project helps developers better understand file handling and user interaction with low-level programming.
+Text editors are essential for developers, from simple ones to advanced IDEs. 
+They help write and edit code easily. 
+Building a text editor in C shows how powerful the language is for file handling,
+memory management, and input/output control.
+
+C’s standard library offers functions like fopen, fwrite, and fclose to handle files. 
+It also provides fgetc and fputc to read and write characters. 
+C’s efficiency and speed make it great for tasks like building a text editor.
+
+Many popular editors, like Vim and Emacs, were originally developed in C. 
+They highlight how the language remains relevant for system-level programming.
+
+When building a text editor in C, you work with data structures like arrays and linked lists to store text. 
+You also implement features like search, replace, undo, and redo. 
+Terminal control codes help manage the cursor and screen, making the editor responsive.
+
+C’s simplicity and efficiency allow for a clean, powerful text editor. 
+This project helps developers better understand file handling and user interaction with low-level programming.
+Text editors are essential for developers, from simple ones to advanced IDEs. 
+They help write and edit code easily. 
+Building a text editor in C shows how powerful the language is for file handling,
+memory management, and input/output control.
+
+C’s standard library offers functions like fopen, fwrite, and fclose to handle files. 
+It also provides fgetc and fputc to read and write characters. 
+C’s efficiency and speed make it great for tasks like building a text editor.
+
+Many popular editors, like Vim and Emacs, were originally developed in C. 
+They highlight how the language remains relevant for system-level programming.
+
+When building a text editor in C, you work with data structures like arrays and linked lists to store text. 
+You also implement features like search, replace, undo, and redo. 
+Terminal control codes help manage the cursor and screen, making the editor responsive.
+
+C’s simplicity and efficiency allow for a clean, powerful text editor. 
+This project helps developers better understand file handling and user interaction with low-level programming.
+Text editors are essential for developers, from simple ones to advanced IDEs. 
+They help write and edit code easily. 
+Building a text editor in C shows how powerful the language is for file handling,
+memory management, and input/output control.
+
+C’s standard library offers functions like fopen, fwrite, and fclose to handle files. 
+It also provides fgetc and fputc to read and write characters. 
+C’s efficiency and speed make it great for tasks like building a text editor.
+
+Many popular editors, like Vim and Emacs, were originally developed in C. 
+They highlight how the language remains relevant for system-level programming.
+
+When building a text editor in C, you work with data structures like arrays and linked lists to store text. 
+You also implement features like search, replace, undo, and redo. 
+Terminal control codes help manage the cursor and screen, making the editor responsive.
+
+C’s simplicity and efficiency allow for a clean, powerful text editor. 
+This project helps developers better understand file handling and user interaction with low-level programming.
+Text editors are essential for developers, from simple ones to advanced IDEs. 
+They help write and edit code easily. 
+Building a text editor in C shows how powerful the language is for file handling,
+memory management, and input/output control.
+
+C’s standard library offers functions like fopen, fwrite, and fclose to handle files. 
+It also provides fgetc and fputc to read and write characters. 
+C’s efficiency and speed make it great for tasks like building a text editor.
+
+Many popular editors, like Vim and Emacs, were originally developed in C. 
+They highlight how the language remains relevant for system-level programming.
+
+When building a text editor in C, you work with data structures like arrays and linked lists to store text. 
+You also implement features like search, replace, undo, and redo. 
+Terminal control codes help manage the cursor and screen, making the editor responsive.
+
+C’s simplicity and efficiency allow for a clean, powerful text editor. 
+This project helps developers better understand file handling and user interaction with low-level programming.
+Text editors are essential for developers, from simple ones to advanced IDEs. 
+They help write and edit code easily. 
+Building a text editor in C shows how powerful the language is for file handling,
+memory management, and input/output control.
+
+C’s standard library offers functions like fopen, fwrite, and fclose to handle files. 
+It also provides fgetc and fputc to read and write characters. 
+C’s efficiency and speed make it great for tasks like building a text editor.
+
+Many popular editors, like Vim and Emacs, were originally developed in C. 
+They highlight how the language remains relevant for system-level programming.
+
+When building a text editor in C, you work with data structures like arrays and linked lists to store text. 
+You also implement features like search, replace, undo, and redo. 
+Terminal control codes help manage the cursor and screen, making the editor responsive.
+
+C’s simplicity and efficiency allow for a clean, powerful text editor. 
+This project helps developers better understand file handling and user interaction with low-level programming.
+Text editors are essential for developers, from simple ones to advanced IDEs. 
+They help write and edit code easily. 
+Building a text editor in C shows how powerful the language is for file handling,
+memory management, and input/output control.
+
+C’s standard library offers functions like fopen, fwrite, and fclose to handle files. 
+It also provides fgetc and fputc to read and write characters. 
+C’s efficiency and speed make it great for tasks like building a text editor.
+
+Many popular editors, like Vim and Emacs, were originally developed in C. 
+They highlight how the language remains relevant for system-level programming.
+
+When building a text editor in C, you work with data structures like arrays and linked lists to store text. 
+You also implement features like search, replace, undo, and redo. 
+Terminal control codes help manage the cursor and screen, making the editor responsive.
+
+C’s simplicity and efficiency allow for a clean, powerful text editor. 
+This project helps developers better understand file handling and user interaction with low-level programming.
+Text editors are essential for developers, from simple ones to advanced IDEs. 
+They help write and edit code easily. 
+Building a text editor in C shows how powerful the language is for file handling,
+memory management, and input/output control.
+
+C’s standard library offers functions like fopen, fwrite, and fclose to handle files. 
+It also provides fgetc and fputc to read and write characters. 
+C’s efficiency and speed make it great for tasks like building a text editor.
+
+Many popular editors, like Vim and Emacs, were originally developed in C. 
+They highlight how the language remains relevant for system-level programming.
+
+When building a text editor in C, you work with data structures like arrays and linked lists to store text. 
+You also implement features like search, replace, undo, and redo. 
+Terminal control codes help manage the cursor and screen, making the editor responsive.
+
+C’s simplicity and efficiency allow for a clean, powerful text editor. 
+This project helps developers better understand file handling and user interaction with low-level programming.
+Text editors are essential for developers, from simple ones to advanced IDEs. 
+They help write and edit code easily. 
+Building a text editor in C shows how powerful the language is for file handling,
+memory management, and input/output control.
+
+C’s standard library offers functions like fopen, fwrite, and fclose to handle files. 
+It also provides fgetc and fputc to read and write characters. 
+C’s efficiency and speed make it great for tasks like building a text editor.
+
+Many popular editors, like Vim and Emacs, were originally developed in C. 
+They highlight how the language remains relevant for system-level programming.
+
+When building a text editor in C, you work with data structures like arrays and linked lists to store text. 
+You also implement features like search, replace, undo, and redo. 
+Terminal control codes help manage the cursor and screen, making the editor responsive.
+
+C’s simplicity and efficiency allow for a clean, powerful text editor. 
+This project helps developers better understand file handling and user interaction with low-level programming.
